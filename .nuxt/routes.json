@@ -1,0 +1,14 @@
+[
+  {
+    "name": "signup",
+    "path": "/signup",
+    "component": "C:\\\\Users\\\\GABALLO\\\\Desktop\\\\nuxtjs2-tailwind\\\\pages\\\\signup.vue",
+    "chunkName": "pages/signup"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\GABALLO\\\\Desktop\\\\nuxtjs2-tailwind\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
